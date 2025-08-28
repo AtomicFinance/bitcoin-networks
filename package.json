@@ -15,7 +15,7 @@
     "prepublishOnly": "yarn run build"
   },
   "dependencies": {
-    "bitcoinjs-lib": "5.2.0"
+    "bitcoinjs-lib": "6.1.7"
   },
   "devDependencies": {
     "@types/node": "16.10.3",
