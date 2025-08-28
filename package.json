@@ -1,5 +1,5 @@
 {
-  "name": "bitcoin-networks-js-lib",
+  "name": "bitcoin-network",
   "umdName": "BitcoinNetworks",
   "version": "0.1.0",
   "description": "Extended bitcoin networks",
