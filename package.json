@@ -1,7 +1,7 @@
 {
-  "name": "bitcoin-networks",
+  "name": "bitcoin-networks-js-lib",
   "umdName": "BitcoinNetworks",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Extended bitcoin networks",
   "author": "Atomic Finance <info@atomic.finance>",
   "homepage": "https://github.com/atomicfinance/bitcoin-networks",
